@@ -8,5 +8,6 @@ public class firstClass {
         System.out.println("Hello everyone welcome to day two practice.");
         System.out.println("Hello");
         System.out.println("welcome to a new day of git");
+        System.out.println("How are you doing today");
     }
 }
